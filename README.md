@@ -5,3 +5,5 @@ The code is all by Andrew Davis (http://www.thetravelingprogrammer.com)
 The fireball animation is from http://opengameart.org/content/fireball-spell
 
 The explosion animation is from http://opengameart.org/content/explosion
+
+Play it at http://www.thetravelingprogrammer.com/files/EndlessGoblin/
